@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 2801481286
+CRC: 4178804582
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 5ea1da20ec145d146a17210f425a6ab5
+    Hash: 3b65690c41cc6b8f3573459a47f4c8c9
   TypeTreeHash:
     serializedVersion: 2
-    Hash: c5d8728239c5b2dfb84e4bcc6a363eb3
+    Hash: ac78648860023902b44c925a168c1e28
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -27,16 +27,20 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 64
   Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 134
+  Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Nexus_SYSTEM.prefab
-- Assets/Material.mat
-- Assets/Material.005.mat
-- Assets/No Name.mat
-- Assets/Material.006.mat
-- Assets/nexus_rings.fbx
-- Assets/nexusconsole_images.png
-- Assets/nexus_console.png
-- Assets/Material.001.mat
-- Assets/nexus.fbx
+- Assets/corruptcube_emit.png
+- Assets/KEY.mat
+- Assets/New Physic Material.physicMaterial
+- Assets/Ambient_Close.ogg
+- Assets/corruptcube_diffuse.png
+- Assets/corruptcube_rough.png
+- Assets/cube.fbx
+- Assets/cube_empty.prefab
 Dependencies: []

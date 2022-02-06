@@ -1,0 +1,31 @@
+{
+	"name" : "Cube",
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/master/NewHorizons/schema.json",
+	"Base" :
+	{
+		"surfaceSize" : 101,
+		"surfaceGravity" : 12,
+		"hasMapMarker" : false,
+	},
+	"Orbit" :
+	{
+		"semiMajorAxis" : 12000,
+		"inclination" : 160,
+		"primaryBody" : "BRITTLE_HOLLOW",
+		"showOrbitLine" : true
+	},
+	"Signal" : 
+	{
+		"Signals" : 
+		[
+			{ "Frequency" : "Default", "Name" : "cube", "audioFilePath" : "planets/assets/CubeIsland_Ambient_-_FX_-_Fortnite.wav", "SourceRadius" : 1, "detectionRadius": 300, "identificationRadius" : 200 }
+		]
+	},
+	"Props" :
+	{
+		"Details" :
+		[
+			{"assetBundle" : "planets/assets/corruption", "path" : "Assets/cube_empty.prefab", }
+		]
+	}
+}

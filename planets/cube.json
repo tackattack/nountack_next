@@ -18,7 +18,7 @@
 	{
 		"Signals" : 
 		[
-			{ "Frequency" : "Default", "Name" : "cube", "audioFilePath" : "planets/assets/CubeIsland_Ambient_-_FX_-_Fortnite.wav", "SourceRadius" : 1, "detectionRadius": 300, "identificationRadius" : 200 }
+			{ "Frequency" : "Default", "Name" : "cube", "audioFilePath" : "planets/assets/Cube_Ambient01.oggs", "SourceRadius" : 1, "detectionRadius": 300, "identificationRadius" : 200 }
 		]
 	},
 	"Props" :

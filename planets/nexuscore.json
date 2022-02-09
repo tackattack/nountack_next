@@ -25,7 +25,7 @@
 	{
 		"Details" :
 		[
-			{ "assetBundle" : "planets/assets/ow_nexuscore", "path" : "Assets/Nexus_SYSTEM.prefab" }
+			{ "assetBundle" : "planets/assets/nexuswarpcoretest", "path" : "Assets/Nexus_SYSTEM.prefab" }
 		],
 		"dialogue" :
 		[

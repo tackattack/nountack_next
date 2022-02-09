@@ -1,0 +1,44 @@
+ManifestFileVersion: 0
+CRC: 92088970
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d75e4c332448abfc32808a6d2c41cf29
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0bcb7ae068975ccb68f6252fca44265f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 068d4b8d94b9e2843be29eba43ef06e0, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Material.006.mat
+- Assets/No Name.mat
+- Assets/Material.005.mat
+- Assets/Material.001.mat
+- Assets/nexusconsole_images.png
+- Assets/nexus.fbx
+- Assets/nexus_console.png
+- Assets/Material.mat
+- Assets/Nexus_SYSTEM.prefab
+- Assets/nexus_rings.fbx
+Dependencies: []
